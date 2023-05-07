@@ -13,6 +13,8 @@ public class DominoGame extends Application {
     private Player[] players;
     private int currentPlayerIndex;
 
+    //teste jdavidmacedo
+
     @Override
     public void start(Stage primaryStage) throws Exception {
         board = new Board();
