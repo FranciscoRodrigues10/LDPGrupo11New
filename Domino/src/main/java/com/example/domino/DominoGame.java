@@ -16,6 +16,7 @@ public class DominoGame extends Application {
     //teste jdavidmacedo
     //oioi
 
+    //commit1
     @Override
     public void start(Stage primaryStage) throws Exception {
         board = new Board();
