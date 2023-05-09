@@ -18,6 +18,8 @@ public class DominoGame extends Application {
     //commit 1
     //commit 2
 
+    //commit1
+    //commit2
     @Override
     public void start(Stage primaryStage) throws Exception {
         board = new Board();
